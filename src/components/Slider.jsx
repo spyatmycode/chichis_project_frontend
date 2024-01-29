@@ -47,7 +47,7 @@ export const Slider = () => {
       <Carousel>
         {
           slides.map(s => (
-            <img className='' key={s} src={`../../dist/assets/${currentImage.imageUrl}`} />
+            <img className='' key={s} src={`../../src/assets/${currentImage.imageUrl}`} />
           ))
         }
       </Carousel>

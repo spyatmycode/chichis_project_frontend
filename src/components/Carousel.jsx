@@ -90,7 +90,7 @@ console.log(currentImage);
               <div className={`rounded-xl 
                   ${curr === i && 'border-2 border-orange'}`}>
                 <img className={`rounded-xl w-9 
-                    ${curr === i && 'opacity-40'}`} src={`../../dist/assets/${currentImage.imageUrl}`} alt="" />
+                    ${curr === i && 'opacity-40'}`} src={`../../src/assets/${currentImage.imageUrl}`} alt="" />
               </div>
             </div>
           ))

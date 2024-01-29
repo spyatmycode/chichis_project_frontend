@@ -14,7 +14,7 @@ export const Navigation = () => {
         <div className='flex items-center gap-5 md:gap-0'>
             {/* Hamburger Menu */}
             <button onClick={toggleSideBarOpen}>
-                <img className="pt-1 md:hidden" src="./images/icon-menu.svg" alt="" />
+                <img className="pt-1 md:hidden" src="../../src/assets/icon-menu.svg" alt="" />
             </button>
             {
                 sideBarOpen && (
@@ -22,7 +22,7 @@ export const Navigation = () => {
                 )
             }
             {/* Logo */}
-            <img src="../../dist/assets/logo.png" className="w-11 bg-blue-600" alt="" />
+            <img src={`../../src/assets/logo.png`} className="w-11 bg-blue-600" alt="" />
             {/* Sections */}
             <div id="sections" className='hidden md:flex items-center pt-1 gap-6 text-dark-grayish-blue'>
                 <NavLink to={"/"} className={(link)=> link.isActive ? "text-blue-400": ""}>
