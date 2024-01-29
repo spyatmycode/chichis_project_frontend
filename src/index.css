@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#sections {
+    margin-left: clamp(1rem, 3.5vw, 5rem);
+}

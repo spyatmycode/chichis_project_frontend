@@ -1,0 +1,20 @@
+export const images = [
+
+    { imageUrl: 'A_tale_of_5_donkeys.JPG', price: 47, name: 'A Tale of 5 Donkeys', description: 'A heartwarming artwork telling a tale of five adorable donkeys.' },
+    { imageUrl: 'Animal_ceramic_vase.JPG', price: 12, name: 'Animal Ceramic Vase', description: 'A unique ceramic vase shaped like your favorite animals.' },
+    { imageUrl: 'Chinese_stone_wall_art_frame.JPG', price: 89, name: 'Chinese Stone Wall Art Frame', description: 'A frame featuring traditional Chinese stone wall art.' },
+    { imageUrl: 'French_bulldog_flower_vase.JPG', price: 16, name: 'French Bulldog Flower Vase', description: 'A charming vase shaped like a French Bulldog, adorned with flowers.' },
+    { imageUrl: 'Green_retro_curve_vase.JPG', price: 57, name: 'Green Retro Curve Vase', description: 'A stylish ceramic vase with a retro and curved design.' },
+    { imageUrl: 'Handmade_porcelain_ceramic_vase.JPG', price: 78, name: 'Handmade Porcelain Ceramic Vase', description: 'An exquisite handmade porcelain ceramic vase.' },
+    { imageUrl: 'HD_framed_abstract_picture_painting.JPG', price: 23, name: 'HD Framed Abstract Picture Painting', description: 'A high-definition framed abstract picture painting.' },
+    { imageUrl: 'Indian_designed_ceramic_vase.JPG', price: 39, name: 'Indian Designed Ceramic Vase', description: 'A beautifully designed ceramic vase with an Indian touch.' },
+    { imageUrl: 'Levvohd_off_white_hollow_ceramic_vase_of_2.JPG', price: 91, name: 'Levvohd Off White Hollow Ceramic Vase of 2', description: 'An off-white hollow ceramic vase set of 2 by Levvohd.' },
+    { imageUrl: 'logo.png', price: 13, name: 'Logo', description: 'The logo for your brand or application.' },
+    { imageUrl: 'Modern_thinker_statue.JPG', price: 76, name: 'Modern Thinker Statue', description: 'A modern and contemplative thinker statue.' },
+    { imageUrl: 'Nordic_u_shaped_vase.JPG', price: 85, name: 'Nordic U Shaped Vase', description: 'A Nordic-inspired U-shaped vase for your home decor.' },
+    { imageUrl: 'Silhouette_vase_collection.JPG', price: 18, name: 'Silhouette Vase Collection', description: 'A collection of vases with elegant silhouettes.' },
+    { imageUrl: 'Tall_harmony_of_hands.JPG', price: 65, name: 'Tall Harmony of Hands', description: 'An artistic representation of tall hands in harmony.' },
+    { imageUrl: 'Textured_raindrop_spotted_vase.JPG', price: 45, name: 'Textured Raindrop Spotted Vase', description: 'A textured vase with raindrop-like spots for a unique touch.' },
+    { imageUrl: 'White_serene_vase.JPG', price: 31, name: 'White Serene Vase', description: 'A serene white vase that adds tranquility to your space.' },
+    { imageUrl: 'Tropical_wall_frame.JPG', price: 85, name: 'Tropical Wall Frame', description: 'A beautiful frame featuring tropical wall art.' },
+];
